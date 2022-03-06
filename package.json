@@ -10,7 +10,8 @@
   "author": "Ahmed Nawaz Khan",
   "license": "ISC",
   "dependencies": {
-    "@actions/core": "^1.6.0"
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.13.0",
